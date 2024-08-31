@@ -79,18 +79,18 @@ export const githubRepos = [
 
 // Education Experience
 export const educationExperience = [
+  // {
+  //   key: 1,
+  //   institution: "Kathmandu Valley College",
+  //   graduation: "May 2023",
+  //   degree: "XII",
+  //   type: "education",
+  // },
   {
     key: 1,
-    institution: "Kathmandu Valley College",
-    graduation: "May 2023",
-    degree: "XII",
-    type: "education",
-  },
-  {
-    key: 2,
-    institution: "Little Angels' School",
-    graduation: "Aug 2021",
-    degree: "X",
+    institution: "Shri Rajendra High School",
+    graduation: "2025",
+    degree: "X (10th)",
     type: "education",
   },
 ];
@@ -317,6 +317,6 @@ export default appsData;
 
 // Social Media Links
 export const socialMediaLinks = {
-  linkedin: "https://www.linkedin.com/in/mishanpoudel/",
+  //linkedin: "https://www.linkedin.com/in/mishanpoudel/",
   github: githubLink,
 };
