@@ -21,23 +21,23 @@ import {
 } from "devicons-react";
 
 // Constants
-const githubLink = "https://github.com/MishanPoudel";
+const githubLink = "https://github.com/ArhanAnsari";
 
 // Profile Description
 export const profileDescription = [
-  "Hello, I'm Mishan Poudel, an experienced front-end web developer specializing in crafting seamless and dynamic user experiences. With expertise in HTML, CSS, JavaScript, and modern frameworks like React and Next.js, I bring innovative designs to life and ensure they perform flawlessly across all devices. Let's create exceptional web experiences together!",
+  "Hello, I'm Arhan Ansari, an experienced full stack web developer specializing in crafting seamless and dynamic user experiences. With expertise in HTML, CSS, JavaScript, and modern frameworks like React and Next.js, I bring innovative designs to life and ensure they perform flawlessly across all devices. Let's create exceptional web experiences together!",
 ];
 
 // Work Experience Template
 export const workExperienceTemplate = [
   {
     key: 1,
-    company: "", // Add company name here
+    company: "CodeWithArhan", // Add company name here
     description: [
-      "", // Add description points here
+      "CodeWithArhan is a website launched by me in 2024.", // Add description points here
     ],
-    duration: "", // Add duration here
-    designation: "", // Add designation here
+    duration: "2024 - Present", // Add duration here
+    designation: "CEO, Founder & Developer", // Add designation here
     type: "work",
   },
 ];
@@ -48,8 +48,8 @@ export const githubRepos = [
     name: "Portfolio",
     techUsed: ["Next.js", "TailwindCSS"],
     description: "Uncover deeper insights into my journey and capabilities.",
-    githubLink: `${githubLink}/Portfolio`,
-    liveURL: "https://portfolio-vert-one-79.vercel.app/",
+    githubLink: `${githubLink}/Arhans-Portfolio`,
+    liveURL: "https://arhanansari.vercel.app/",
   },
   {
     name: "Emoji-TicTacToe",
